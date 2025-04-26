@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-import logo from './assets/letsDev.png';
+import logo from './assets/LetsDev.png';
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
